@@ -14,34 +14,22 @@ This project showcases how data analytics and business intelligence tools like P
 Power Bi
 
 # Features
-1. Campaign_ID
-2. <br>	
-3. Target_Audience
-4. <br>
-5. Campaign_Goal	Duration
-6. <br>	
-7. Channel_Used
-8. <br>	
-9. Conversion_Rate
-10. <br>
-11. Acquisition_Cost
-12. <br>	
-13. ROI	Location
-14. <br>	
-15. Language
-16. <br>	
-17. Clicks
-18. <br>	
-19. Impressions
-20. <br>	
-21. Engagement_Score
-22. <br>	
-23. Customer_Segment
-24. <br>	
-25. Date
-26. <br>	
-27. Company
-28. 
+Campaign_ID
+Target_Audience	
+Campaign_Goal	Duration	
+Channel_Used	
+Conversion_Rate	
+Acquisition_Cost	
+ROI	Location	
+Language	
+Clicks	
+Impressions	
+Engagement_Score	
+Customer_Segment	
+Date	
+Company
+
+
 29. # Conclusion
 30. This Power BI project demonstrates the power of data-driven decision-making in optimizing social media advertising campaigns. By consolidating key performance indicators from multiple platforms into one interactive dashboard, marketers and business stakeholders can quickly identify what's working and what needs improvement.
 <br>
