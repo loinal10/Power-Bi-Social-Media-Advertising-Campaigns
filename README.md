@@ -17,17 +17,29 @@ Power Bi
 Campaign_ID
 <br>
 Target_Audience	
-Campaign_Goal	Duration	
-Channel_Used	
-Conversion_Rate	
-Acquisition_Cost	
-ROI	Location	
-Language	
-Clicks	
-Impressions	
-Engagement_Score	
-Customer_Segment	
-Date	
+<br>
+Campaign_Goal	Duration
+<br>
+Channel_Used
+<br>
+Conversion_Rate
+<br>
+Acquisition_Cost
+<br>
+ROI	Location
+<br>
+Language
+<br>
+Clicks
+<br>
+Impressions
+<br>
+Engagement_Score
+<br>
+Customer_Segment
+<br>
+Date
+<br>
 Company
 
 
