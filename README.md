@@ -2,9 +2,7 @@
 This Data contains USA social media marketing campaigns of different products and platform.
 # Introduction 
 This project is a Power BI dashboard created to analyze and visualize the performance of a Social Media Advertising Campaign. The aim of this project is to provide actionable insights into campaign effectiveness across various platforms such as Facebook, Instagram, and Twitter. It helps stakeholders understand key performance metrics like reach, engagement, click-through rates (CTR), conversions, and cost efficiency.
-<br>
 By using interactive visualizations, the dashboard allows marketing teams to:
-<br>
 1. Compare platform-wise performance
 <br>
 2. Identify the most engaging ad creatives
