@@ -15,6 +15,7 @@ Power Bi
 
 # Features
 Campaign_ID
+<br>
 Target_Audience	
 Campaign_Goal	Duration	
 Channel_Used	
@@ -30,8 +31,8 @@ Date
 Company
 
 
-29. # Conclusion
-30. This Power BI project demonstrates the power of data-driven decision-making in optimizing social media advertising campaigns. By consolidating key performance indicators from multiple platforms into one interactive dashboard, marketers and business stakeholders can quickly identify what's working and what needs improvement.
+# Conclusion
+This Power BI project demonstrates the power of data-driven decision-making in optimizing social media advertising campaigns. By consolidating key performance indicators from multiple platforms into one interactive dashboard, marketers and business stakeholders can quickly identify what's working and what needs improvement.
 <br>
 The insights generated through this analysis not only help improve current campaign strategies but also lay the foundation for smarter budgeting, better audience targeting, and higher overall returns in future campaigns.
 <br>
