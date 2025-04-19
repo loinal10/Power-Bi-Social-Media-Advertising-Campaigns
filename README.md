@@ -7,6 +7,7 @@ By using interactive visualizations, the dashboard allows marketing teams to:
 2. Identify the most engaging ad creatives
 3. Monitor budget utilization
 4. Optimize future campaign strategies based on data-driven insights
+<br>
 This project showcases how data analytics and business intelligence tools like Power BI can be leveraged to enhance digital marketing strategies and maximize ROI.
 
 # Usage
